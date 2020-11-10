@@ -1,0 +1,23 @@
+#quote-box {
+  display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.hannah-inner {
+  background-color: #fafafa;
+  padding: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 3px -2px, 
+              rgba(0, 0, 0, 0.14) 0px 3px 4px 0px, 
+              rgba(0, 0, 0, 0.12) 0px 1px 8px 0px
+}
+
+.hannah-right {
+  text-align: right;
+}
